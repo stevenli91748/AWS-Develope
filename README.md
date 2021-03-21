@@ -18,7 +18,7 @@
 # 视频
 
 * [AWS Certified Developer - Associate 2020 (PASS THE EXAM!) | Ad-Free Course](https://www.youtube.com/watch?v=RrKRN9zRBWs)
-
+* [AWS助理系统架构师视频培训课程(saa-c02更新)](https://ke.qq.com/course/package/22014)
 
 # 有用的参考
 
