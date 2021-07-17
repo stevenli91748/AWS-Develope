@@ -19,7 +19,8 @@
 * [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng)
 * [AWS Certified Developer - Associate 2020 (PASS THE EXAM!) | Ad-Free Course](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 * [AWS助理系统架构师视频培训课程(saa-c02更新)](https://ke.qq.com/course/package/22014)
-
+* [AWS云计算官方课程——AWS操作指南系列](https://edu.51cto.com/center/course/lesson/index?id=178872)
+* []()
 # 有用的参考
 
 * [亚马逊网络服务教程](http://www.vue5.com/amazon_web_services/amazon_web_services.html)
