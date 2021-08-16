@@ -6,6 +6,7 @@
 * [AWS 快速入门](https://aws.amazon.com/cn/quickstart/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.filter-tech-category=*all&awsf.filter-industry=*all&awsf.filter-content-type=*all)
 * [架构师学习路径---如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)
 * [开发人员学习路径---通过专家编写的课程在 AWS 上熟练开发云应用程序](https://aws.amazon.com/cn/training/learn-about/developer/?la=sec&sec=role)
+  * [在亚马逊云科技云上构建 Java 应用程序](https://aws.amazon.com/cn/developer/language/java/?nc1=f_dr&whats-new-content-developer-tools.sort-by=item.additionalFields.postDateTime&whats-new-content-developer-tools.sort-order=desc&developer-tools-blog-posts.sort-by=item.additionalFields.createdDate&developer-tools-blog-posts.sort-order=desc)
 * [开发运维工程师学习路径---DevOpsMaster DevOps on AWS with courses built by the experts at AWS](https://aws.amazon.com/cn/training/learn-about/devops/?la=sec&sec=role)
 * [云从业者学习学习路径---AWS 云的基础知识并为 AWS Certification 考试做准备](https://aws.amazon.com/cn/training/learn-about/cloud-practitioner/?la=sec&sec=role)
 * [Machine Learning学习路径---通过 AWS 专家构建的课程培养您的机器学习专门知识](https://aws.amazon.com/cn/training/learn-about/machine-learning/?la=sec&sec=role)
