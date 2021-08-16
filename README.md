@@ -1,7 +1,7 @@
 
 # 官方教程
-[架构师学习如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)|
----|
+* [架构师学习如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)
+* [AWS 培训和认证一站式在线学习](https://aws.amazon.com/cn/training/online-learning/?c=latest_in&p=4&t=olo&refid=ha_awssm-evergreen-getting_started&trkcampaign=psc-db-category-glbl-fy21-q2-sm-2up-db-free-tier)
 
 
 ---
