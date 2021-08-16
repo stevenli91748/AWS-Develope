@@ -1,4 +1,12 @@
 
+# 官方教程
+[架构师学习如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)|
+---|
+
+
+---
+
+
 [AWS 学习指南](https://www.kancloud.cn/decai_edu/aws_study#/catalog)|[AWS组织机构接口](https://www.kancloud.cn/youngheart/awsorgapi#/catalog)|[炎黄AWS平台从新手到入门](https://www.kancloud.cn/yongxin/demo#/catalog)|[AWS开发指南](https://docs.awspaas.com/help/reference_guide/README.html)|
 ---|---|---|---|
 
