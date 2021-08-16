@@ -1,6 +1,6 @@
 
-[AWS 学习指南](https://www.kancloud.cn/decai_edu/aws_study#/catalog)|[AWS组织机构接口](https://www.kancloud.cn/youngheart/awsorgapi#/catalog)|[炎黄AWS平台从新手到入门](https://www.kancloud.cn/yongxin/demo#/catalog)|
----|---|---|
+[AWS 学习指南](https://www.kancloud.cn/decai_edu/aws_study#/catalog)|[AWS组织机构接口](https://www.kancloud.cn/youngheart/awsorgapi#/catalog)|[炎黄AWS平台从新手到入门](https://www.kancloud.cn/yongxin/demo#/catalog)|[AWS开发指南](https://docs.awspaas.com/help/reference_guide/README.html)|
+---|---|---|---|
 
 [AWS短信集成接口](https://www.kancloud.cn/youngheart/awssms#/catalog)|[AWS平台培训大纲](https://www.kancloud.cn/decai_edu/aws_bx#/catalog)|[AWS团队协同开发](https://www.kancloud.cn/decai_edu/aws_outline_devops#/catalog)|
 ---|---|---|
