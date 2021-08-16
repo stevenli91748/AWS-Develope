@@ -39,3 +39,4 @@
 # 有用的参考
 
 * [亚马逊网络服务教程](http://www.vue5.com/amazon_web_services/amazon_web_services.html)
+* [持续将功能部署到AWS托管的Spring Boot应用程序](https://www.codenong.com/53500547/)
