@@ -28,3 +28,4 @@
 # 有用的参考
 
 * [亚马逊网络服务教程](http://www.vue5.com/amazon_web_services/amazon_web_services.html)
+* [AWS 学习指南](https://www.kancloud.cn/decai_edu/aws_study/1371421)
