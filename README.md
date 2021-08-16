@@ -1,10 +1,8 @@
 
 # 官方教程
 
-
-
-
 ## 学习路径
+
 * [架构师学习路径---如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)
 * [开发人员学习路径---通过专家编写的课程在 AWS 上熟练开发云应用程序](https://aws.amazon.com/cn/training/learn-about/developer/?la=sec&sec=role)
 * [开发运维工程师学习路径---DevOpsMaster DevOps on AWS with courses built by the experts at AWS](https://aws.amazon.com/cn/training/learn-about/devops/?la=sec&sec=role)
@@ -12,6 +10,13 @@
 * [Machine Learning学习路径---通过 AWS 专家构建的课程培养您的机器学习专门知识](https://aws.amazon.com/cn/training/learn-about/machine-learning/?la=sec&sec=role)
 * [运维学习路径---通过专家编写的课程在 AWS 上熟练运维](https://aws.amazon.com/cn/training/learn-about/operations/?la=sec&sec=role)
 * [AWS 培训和认证一站式在线学习](https://aws.amazon.com/cn/training/online-learning/?c=latest_in&p=4&t=olo&refid=ha_awssm-evergreen-getting_started&trkcampaign=psc-db-category-glbl-fy21-q2-sm-2up-db-free-tier)
+
+## 文档
+
+* [文档](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
+
+## AWS 解决方案参考
+* [AWS 解决方案实施例子---经过审查的技术参考实施旨在帮您提高解决常见问题的速度和构建速度](https://aws.amazon.com/cn/solutions/implementations/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=*all&awsf.AWS-Industry=*all&awsf.Content-Type=*all)
 
 
 ---
