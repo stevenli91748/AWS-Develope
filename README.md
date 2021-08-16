@@ -2,7 +2,8 @@
 # 官方教程
 
 ## 学习路径
-
+* [开始使用 AWS学习基础知识并立即开始在 AWS 上进行构建](https://aws.amazon.com/cn/getting-started/?ref=docs_gateway)
+* [AWS 快速入门](https://aws.amazon.com/cn/quickstart/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.filter-tech-category=*all&awsf.filter-industry=*all&awsf.filter-content-type=*all)
 * [架构师学习路径---如何在 AWS 上设计应用程序和系统](https://aws.amazon.com/cn/training/learn-about/architect/)
 * [开发人员学习路径---通过专家编写的课程在 AWS 上熟练开发云应用程序](https://aws.amazon.com/cn/training/learn-about/developer/?la=sec&sec=role)
 * [开发运维工程师学习路径---DevOpsMaster DevOps on AWS with courses built by the experts at AWS](https://aws.amazon.com/cn/training/learn-about/devops/?la=sec&sec=role)
