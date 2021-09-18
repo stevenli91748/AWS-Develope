@@ -1,6 +1,10 @@
 
+# 在线书籍
+* [AWS助理架构师认证备考宝典](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
 
-# [AWS云原生应用 ](https://github.com/stevenli91748/AWS-Develope/blob/master/README.md)
+
+# AWS云原生应用 
+
 [AWS 各个方向的学习路径](https://aws.amazon.com/cn/training/learning-paths/?nc2=sb_lp_all)|[AWS官方操作教程集---重要](https://aws.amazon.com/cn/getting-started/hands-on/)|[AWS官方实验教程](https://www.wellarchitectedlabs.com/security/)|[AWS的产品一览](https://aws.amazon.com/cn/?nc2=h_lg)|[AWS 树型文档](https://docs.aws.amazon.com/?e=gs&p=gsrc)|
 ---|---|---|---|---|
 
