@@ -3,6 +3,17 @@
 * [AWS在线书籍](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9#search)
 * [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
 * [AWS lambda实战： 开发事件驱动的无服务器应用程序](https://weread.qq.com/web/reader/19d322d071a24ed819d2b13)
+* [AWS Certified Advanced Networking: Specialty Exam Guide](https://weread.qq.com/web/reader/7c3325c0722ff9df7c3b4da)
+* [Learning AWS (Second Edition)](https://weread.qq.com/web/reader/ae332a1072300058ae38223)
+* [Expert AWS Development](https://weread.qq.com/web/reader/26b32b50722fffa626bc5a7)
+* [Mastering AWS Development](https://weread.qq.com/web/reader/d753268072300d0ad75f8d6) 
+* [Hands-On Serverless Deep Learning with TensorFlow and AWS Lambda](https://weread.qq.com/web/reader/b69324a0722ffb59b69c0e1)
+* [Practical AWS Networking](https://weread.qq.com/web/reader/fee329c0723000acfee8c9c)
+* [Learning AWS OpsWorks](https://weread.qq.com/web/reader/1d2326b0723015ef1d2c0fc)
+* [Kubernetes on AWS](https://weread.qq.com/web/reader/f9d32d10722ffbf2f9db6b3)
+* [Designing AWS Environments](https://weread.qq.com/web/reader/8e432510722ffcdf8e42f47)
+* [Serverless Architectures with AWS](https://weread.qq.com/web/reader/8ea32e00722ffbc88ea0e3f)
+* [Implementing Cloud Design Patterns for AWS (Second Edition)](https://weread.qq.com/web/reader/38132ff0722ffa30381c88e)
 
 # AWS云原生应用 
 
