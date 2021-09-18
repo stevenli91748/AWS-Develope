@@ -1,5 +1,6 @@
 
 # 在线书籍
+* [AWS在线书籍](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9#search)
 * [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
 * [AWS lambda实战： 开发事件驱动的无服务器应用程序](https://weread.qq.com/web/reader/19d322d071a24ed819d2b13)
 
