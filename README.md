@@ -242,7 +242,7 @@
 ---
 
 # 视频
-
+* [AWS 认证培询课程](https://www.exampro.co/aws-choose-an-exam)
 * [Build an Online book Store Using AWS on one day with React and Stripe ](https://www.youtube.com/watch?v=JgwI22y_eFA)
 * [AWS for Startups - Deploying with AWS Tutorial](https://www.youtube.com/watch?v=U3VSJhaC4kc)
 * [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE&t=1s)
