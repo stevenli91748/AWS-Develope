@@ -3,6 +3,7 @@
 * [AWS在线书籍](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9#search)
 * [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
 * [AWS lambda实战： 开发事件驱动的无服务器应用程序](https://weread.qq.com/web/reader/19d322d071a24ed819d2b13)
+* [AWS解决方案架构师学习指南（第2版）](https://weread.qq.com/web/reader/5db329f0811e31812g0180dd)
 * [AWS Certified Advanced Networking: Specialty Exam Guide](https://weread.qq.com/web/reader/7c3325c0722ff9df7c3b4da)
 * [Learning AWS (Second Edition)](https://weread.qq.com/web/reader/ae332a1072300058ae38223)
 * [Expert AWS Development](https://weread.qq.com/web/reader/26b32b50722fffa626bc5a7)
