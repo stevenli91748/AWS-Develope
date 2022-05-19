@@ -243,6 +243,7 @@
 ---
 
 # 视频
+* [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 * [AWS 认证培询课程](https://www.exampro.co/aws-choose-an-exam)
 * [Build an Online book Store Using AWS on one day with React and Stripe ](https://www.youtube.com/watch?v=JgwI22y_eFA)
 * [AWS for Startups - Deploying with AWS Tutorial](https://www.youtube.com/watch?v=U3VSJhaC4kc)
