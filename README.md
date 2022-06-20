@@ -16,6 +16,11 @@
 * [Serverless Architectures with AWS](https://weread.qq.com/web/reader/8ea32e00722ffbc88ea0e3f)
 * [Implementing Cloud Design Patterns for AWS (Second Edition)](https://weread.qq.com/web/reader/38132ff0722ffa30381c88e)
 
+
+
+# AWS认证
+* [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
+
 # AWS云原生应用 
 
 [AWS 各个方向的学习路径](https://aws.amazon.com/cn/training/learning-paths/?nc2=sb_lp_all)|[AWS官方操作教程集---重要](https://aws.amazon.com/cn/getting-started/hands-on/)|[AWS官方实验教程](https://www.wellarchitectedlabs.com/security/)|[AWS的产品一览](https://aws.amazon.com/cn/?nc2=h_lg)|[AWS 树型文档](https://docs.aws.amazon.com/?e=gs&p=gsrc)|
