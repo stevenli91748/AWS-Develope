@@ -268,7 +268,7 @@
 
 
 # 有用的参考
-
+* [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
 * [亚马逊网络服务教程](http://www.vue5.com/amazon_web_services/amazon_web_services.html)
 * [在Amazon Elastic Beanstalk上部署Spring Boot应用程序](https://blog.csdn.net/dnc8371/article/details/106702693)
 * [Spring官方文档： Spring Cloud AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html#_basic_setup)
