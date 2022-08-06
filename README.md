@@ -248,6 +248,7 @@
 ---
 
 # 视频
+* [AWS Tutorial For Beginners | AWS Training ](https://www.youtube.com/watch?v=r4YIdn2eTm4&list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz&index=2)
 * [小马技术 AWS系列](https://www.youtube.com/channel/UCazV3A3_1-Mtd6E_auw_ifg/playlists)
 * [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 * [AWS 认证培询课程](https://www.exampro.co/aws-choose-an-exam)
