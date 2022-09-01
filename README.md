@@ -20,6 +20,9 @@
 
 # AWS认证
 * [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
+* [小马技术---深学AWS](https://www.youtube.com/channel/UCazV3A3_1-Mtd6E_auw_ifg/playlists)
+
+
 
 # AWS云原生应用 
 
