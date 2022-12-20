@@ -52,8 +52,8 @@
 [Build AWS Multi-Tier Architecture Project from Scratch](https://www.youtube.com/watch?v=DoaeNEytnuA&list=RDCMUCCktnahuRFYIBtNnKT5IYyg&start_radio=1&t=2192)|
 ---|
 
-[AWS CodePipeline tutorial  Build a CI/CD Pipeline on AWS](https://www.youtube.com/watch?v=NwzJCSPSPZs)|
----|
+[AWS CodePipeline tutorial  Build a CI/CD Pipeline on AWS](https://www.youtube.com/watch?v=NwzJCSPSPZs)|[如何在AWS云中构建自己的CI/CD？AWS上有哪些DevOps工具?手把手教你如何使用AWS CI/CD快速构建一个web项目](https://www.youtube.com/watch?v=FUX247aXhwc)|
+---|---|
 
 [Amason Cloud](https://github.com/stevenli91748/Cloud/blob/master/Amason%20Cloud.md)|
 ---|
