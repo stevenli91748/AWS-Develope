@@ -223,6 +223,7 @@
 # 官方教程
 
 ## 学习路径
+* [How one learner earned four AWS Certifications in four months](https://aws.amazon.com/cn/blogs/training-and-certification/how-one-learner-earned-four-aws-certifications-in-four-months/)
 * [入门---开始使用 AWS学习基础知识并立即开始在 AWS 上进行构建](https://aws.amazon.com/cn/getting-started/?ref=docs_gateway)
 * [AWS Skill Builder](https://skillbuilder.aws/)
 * [Training and Certification](https://aws.amazon.com/training/?sc_icampaign=aware_aws-training_blog&sc_ichannel=ha&sc_icontent=awssm-2021&sc_iplace=blog_tile&trk=ha_awssm-2021)
