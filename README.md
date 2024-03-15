@@ -1,4 +1,24 @@
 
+# 在AWS上开发的流行方案
+
+  1. Serverless 架构: 使用 AWS Lambda 函数来运行代码而无需管理服务器。结合 API Gateway、DynamoDB、S3 等服务构建无服务器应用程序。
+  
+  2. 容器化解决方案: 使用 Amazon ECS（Elastic Container Service）或 Amazon EKS（Elastic Kubernetes Service）等服务在 AWS 上部署和管理容器化应用程序。
+  
+  3. 数据湖和数据分析: 使用 Amazon S3 作为数据湖，结合 Amazon Redshift、Amazon Athena、Amazon EMR（Elastic MapReduce）等服务进行数据分析和处理。
+  
+  4. 人工智能和机器学习: 使用 Amazon SageMaker 进行机器学习模型的构建、训练和部署。结合 AWS 的 AI 服务如 Rekognition、Comprehend 等进行视觉、语言等方面的 AI 应用开发。
+  
+  5. 物联网 (IoT) 解决方案: 使用 AWS IoT Core 来连接和管理物联网设备，并结合其他 AWS 服务如 AWS Greengrass 进行本地计算、AWS IoT Analytics 进行数据分析等。
+  
+  6. 持续集成/持续交付 (CI/CD): 使用 AWS CodePipeline、AWS CodeBuild 和 AWS CodeDeploy 等服务构建自动化的持续集成和持续交付流水线。
+  
+  7. 安全和合规性: 利用 AWS Identity and Access Management (IAM)、AWS Key Management Service (KMS) 等服务来管理和保护 AWS 资源，并通过 AWS Config、AWS CloudTrail 等服务确保合规性。
+  
+  8. 边缘计算: 利用 AWS 的边缘服务如 AWS Lambda@Edge、AWS CloudFront CDN 等在边缘进行计算和内容分发。
+
+
+
 # 在线书籍
 * [AWS在线书籍](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9#search)
 * [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
