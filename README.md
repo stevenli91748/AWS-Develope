@@ -39,7 +39,7 @@
 
 
 # AWS认证
-
+* [详解90天拿AWS AI 证书](https://github.com/stevenli91748/AWS-Develope/blob/master/AWS%20%E8%AF%81%E4%B9%A6/%E8%AF%A6%E8%A7%A390%E5%A4%A9%E6%8B%BFAWS%20AI%20%E8%AF%81%E4%B9%A6.md)
 * [AWS认证官方网站](https://aws.amazon.com/free/?p=free&c=offers&z=2&refid=e7dab476-e788-4e8c-abad-50f7a567ffad)
 * [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
 * [小马技术---深学AWS](https://www.youtube.com/channel/UCazV3A3_1-Mtd6E_auw_ifg/playlists)
