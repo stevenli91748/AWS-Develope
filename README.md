@@ -39,10 +39,11 @@
 
 
 # AWS认证
+
 * [AWS认证官方网站](https://aws.amazon.com/free/?p=free&c=offers&z=2&refid=e7dab476-e788-4e8c-abad-50f7a567ffad)
 * [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
 * [小马技术---深学AWS](https://www.youtube.com/channel/UCazV3A3_1-Mtd6E_auw_ifg/playlists)
-
+* []()
 
 
 # AWS云原生应用 
@@ -305,7 +306,7 @@
 
 
 # 有用的参考
-* [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
+
 * [亚马逊网络服务教程](http://www.vue5.com/amazon_web_services/amazon_web_services.html)
 * [在Amazon Elastic Beanstalk上部署Spring Boot应用程序](https://blog.csdn.net/dnc8371/article/details/106702693)
 * [Spring官方文档： Spring Cloud AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html#_basic_setup)
