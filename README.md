@@ -39,6 +39,7 @@
 
 
 # AWS认证
+* [AWS认证官方网站](https://aws.amazon.com/free/?p=free&c=offers&z=2&refid=e7dab476-e788-4e8c-abad-50f7a567ffad)
 * [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
 * [小马技术---深学AWS](https://www.youtube.com/channel/UCazV3A3_1-Mtd6E_auw_ifg/playlists)
 
