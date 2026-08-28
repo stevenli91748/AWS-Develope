@@ -3,7 +3,9 @@
 
 **今天目标只有一个：建立你的 AWS 云端开发基础，并让 GitHub → AWS 的开发路线跑通。今天先不碰 Bedrock、RAG、LangChain。先把基础环境搭稳**
 * [Day 1 — AWS LLM 在线开发环境](https://github.com/stevenli91748/AWS-Develope/blob/master/AWS%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E7%9B%B4%E6%8E%A5%E6%90%AD%E4%B8%80%E5%A5%97%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E3%80%81%E5%8F%AF%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%AF%E6%B5%8B%E8%AF%95%E3%80%81%E4%BB%A5%E5%90%8E%E5%8F%AF%E4%B8%8A%E7%BA%BF%E7%94%9F%E4%BA%A7%E7%9A%84%20AWS%20%E7%8E%AF%E5%A2%83%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Day1%20-%20DAY20/Day%201%20%E2%80%94%20AWS%20LLM%20%E5%9C%A8%E7%BA%BF%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
-* []()
+
+**今天目标：把 React 前端部署到 AWS Amplify，让你的浏览器可以直接访问一个真正运行在 AWS 上的 LLM 应用前端**
+* [Day 2 — React + TypeScript + AWS Amplify 在线前端](https://github.com/stevenli91748/AWS-Develope/blob/master/AWS%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E7%9B%B4%E6%8E%A5%E6%90%AD%E4%B8%80%E5%A5%97%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E3%80%81%E5%8F%AF%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%AF%E6%B5%8B%E8%AF%95%E3%80%81%E4%BB%A5%E5%90%8E%E5%8F%AF%E4%B8%8A%E7%BA%BF%E7%94%9F%E4%BA%A7%E7%9A%84%20AWS%20%E7%8E%AF%E5%A2%83%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Day1%20-%20DAY20/Day%202%20%E2%80%94%20React%20%2B%20TypeScript%20%2B%20AWS%20Amplify%20%E5%9C%A8%E7%BA%BF%E5%89%8D%E7%AB%AF.md)
 * []()
 * []()
 * []()
