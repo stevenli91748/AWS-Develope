@@ -48,6 +48,8 @@
 
 
 # AWS云原生应用 
+[顶云AWS爱好者](https://www.youtube.com/@iloveawscn/videos)|
+---|
 
 [AWS 各个方向的学习路径](https://aws.amazon.com/cn/training/learning-paths/?nc2=sb_lp_all)|[AWS官方操作教程集---重要](https://aws.amazon.com/cn/getting-started/hands-on/)|[AWS官方实验教程](https://www.wellarchitectedlabs.com/security/)|[AWS的产品一览](https://aws.amazon.com/cn/?nc2=h_lg)|[AWS 树型文档](https://docs.aws.amazon.com/?e=gs&p=gsrc)|
 ---|---|---|---|---|
