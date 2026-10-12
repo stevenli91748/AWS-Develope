@@ -20,7 +20,7 @@
 
 
 # 在线书籍
-* [AWS在线书籍](https://weread.qq.com/web/search/books?author=%E5%B0%BC%E6%81%A9#search)
+* [AWS 认证人工智能实践者 (AIF-C01) 学习指南 PSW: gzpengli@19731108](https://learning.oreilly.com/library/view/aws-ren-zheng-ren-gong-zhi-neng-shi-jian-zhe-aif-c01/9798341666641/foreword01.html)
 * [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
 * [AWS lambda实战： 开发事件驱动的无服务器应用程序](https://weread.qq.com/web/reader/19d322d071a24ed819d2b13)
 * [AWS解决方案架构师学习指南（第2版）SAA-C01](https://weread.qq.com/web/reader/5db329f0811e31812g0180dd)
