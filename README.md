@@ -20,8 +20,8 @@
 
 
 # 在线书籍
-* [AWS 认证人工智能实践者 (AIF-C01) 学习指南 PSW: gzpengli@19731108](https://learning.oreilly.com/library/view/aws-ren-zheng-ren-gong-zhi-neng-shi-jian-zhe-aif-c01/9798341666641/foreword01.html)
-* [AWS助理架构师认证备考宝典---2021](https://weread.qq.com/web/reader/42932c9072551c3e429fc57)
+
+
 * [AWS lambda实战： 开发事件驱动的无服务器应用程序](https://weread.qq.com/web/reader/19d322d071a24ed819d2b13)
 * [AWS解决方案架构师学习指南（第2版）SAA-C01](https://weread.qq.com/web/reader/5db329f0811e31812g0180dd)
 * [AWS Certified Advanced Networking: Specialty Exam Guide](https://weread.qq.com/web/reader/7c3325c0722ff9df7c3b4da)
@@ -39,6 +39,7 @@
 
 
 # AWS认证
+* [AWS 认证人工智能实践者 (AIF-C01) 学习指南 PSW: gzpengli@19731108](https://learning.oreilly.com/library/view/aws-ren-zheng-ren-gong-zhi-neng-shi-jian-zhe-aif-c01/9798341666641/foreword01.html)
 * [Which AWS certification should you do  ?](https://www.youtube.com/watch?v=WK4SwQaPUXM)
 * [Stop Wasting Months on the AWS SAA. Pass It in 4 Weeks.](https://www.youtube.com/watch?v=7Pxhp-jG7dk)
 * [顶云课程:各种 AWS 证书课程---付费](https://www.iloveaws.cn/about)
