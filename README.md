@@ -39,6 +39,8 @@
 
 
 # AWS认证
+* [Passed the AWS Certified AI Practitioner Exam – My Study Experience](https://www.reddit.com/r/AWSCertifications/comments/1wpsvcv/passed_the_aws_certified_ai_practitioner_exam_my/)
+  * [AWS Certifications resources](https://gist.github.com/oshanz/dc747fd2cf9f9e3e42830352b1109e7d) 
 * [AWS 认证人工智能实践者 (AIF-C01) 学习指南 PSW: gzpengli@19731108](https://learning.oreilly.com/library/view/aws-ren-zheng-ren-gong-zhi-neng-shi-jian-zhe-aif-c01/9798341666641/foreword01.html)
 * [Which AWS certification should you do  ?](https://www.youtube.com/watch?v=WK4SwQaPUXM)
 * [Stop Wasting Months on the AWS SAA. Pass It in 4 Weeks.](https://www.youtube.com/watch?v=7Pxhp-jG7dk)
