@@ -43,6 +43,7 @@
 * [Which AWS certification should you do  ?](https://www.youtube.com/watch?v=WK4SwQaPUXM)
 * [Stop Wasting Months on the AWS SAA. Pass It in 4 Weeks.](https://www.youtube.com/watch?v=7Pxhp-jG7dk)
 * [顶云课程:各种 AWS 证书课程---付费](https://www.iloveaws.cn/about)
+  * [获取AWS认证-快速路径及AWS认证体系](https://edu.51cto.com/video/9557.html) 
 * [详解90天拿AWS AI 证书](https://github.com/stevenli91748/AWS-Develope/blob/master/AWS%20%E8%AF%81%E4%B9%A6/%E8%AF%A6%E8%A7%A390%E5%A4%A9%E6%8B%BFAWS%20AI%20%E8%AF%81%E4%B9%A6.md)
 * [AWS认证官方网站](https://aws.amazon.com/free/?p=free&c=offers&z=2&refid=e7dab476-e788-4e8c-abad-50f7a567ffad)
 * [AWS认证攻略 ](https://www.jianshu.com/p/738ddd9d5b61)
