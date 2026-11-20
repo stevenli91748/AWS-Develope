@@ -54,6 +54,11 @@
 
 
 # AWS云原生应用 
+
+[AWS Cloud Practitioner Tutorial 教程 ](https://www.w3schools.com/aws/index.php)|
+---|
+
+
 [顶云AWS爱好者](https://www.youtube.com/@iloveawscn/videos)|[Alta3 Research aws](https://www.youtube.com/@Alta3Research/videos)|
 ---|---|
 
